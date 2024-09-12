@@ -4,38 +4,43 @@ summary: Conoce los recursos generales incorporados el panel digital interactivo
 authors:
     - Manuela Iborra
     - Jose Robledano
-date: 2024-08-01
+date: 2024-09-01
 ---
 # *Recursos*
 
-Algunas aplicaciones ya están instaladas en el panel dital interactivo, y otras pueden ser instaladas. 
+Algunas aplicaciones ya están instaladas en el panel digital interactivo, y otras pueden ser instaladas. 
 
 Sin embargo, para realizar la instalación y otras opciones de configuración, es necesario disponer de ciertos permisos. Por lo general el usuario que utiliza el panel digital interactivo está limitado para realizar estas acciones.
 
 Tampoco es el propósito dedicar el tiempo a la instalación y configuración del panel digital interactivo. 
 
-Es posible que el profesorado que actúe como usuario, interactúe con distintos paneles digitales interactivos, y que cada uno de ellos tenga diferentes características. Estas diferencias es muy habitual que sean a nivel de aplicación, es por ello que esta tarea no es el propósito ni del profesorado ni de este curso.
+Es posible que el profesorado que actúe como usuario, interactúe con distintos paneles digitales interactivos, y que cada uno de ellos tenga diferentes aplicaciones instaladas o activadas. Estas diferencias es muy habitual que ocurran a nivel de aplicación, es por ello que esta tarea no es el propósito ni del profesorado ni de este curso.
 
-Nos centraremos en funcionalidades generales que ofrece el panel digital interactivo, siendo conscientes de las diferencias existentes entre diferentes paneles digitales interactivos, aún siendo de la misma marca, ya que el uso diferente genera situaciones diferentes de cada dispositivo.
+Nos centraremos en funcionalidades generales que ofrece el panel digital interactivo. Hay que ser consciente de las diferencias posibles entre diferentes paneles digitales interactivos, aún siendo de la misma marca, ya que el uso diferente genera situaciones diferentes de cada dispositivo.
 
 Las barras de herramientas facilitan el acceso a los diferentes modos de uso del panel digital interactivo.
 
 
 ## **Pizarra**
 
-Con el modo pizarra, el panel digital interactivo actúa como una pizarra tradicional. 
+Con el ##modo pizarra##, el panel digital interactivo actúa como una pizarra tradicional. 
 
-Las acciones básicas, son el trazado de líneas utilizando un dedo o el puntero del panel digital interactivo. 
+Las acciones básicas, son el ##trazado## de líneas utilizando un dedo o el puntero del panel digital interactivo. Hay tres herramientas disponibles:
+- El ##trazo libre##, se puede seleccionar el color y el grosor del trazo, en modo lápiz o pincel.
+- El ##trazo geométrico##, ofrece formas geométricas variadas que se pueden escalar en la pizarra. Es posible elegir el color y alternar entre figuras rellenas o vacias de color. También es posible trazar líneas rectas y fechas.
+- ##Trazo con IA##, a su vez tiene tres modalidades. Una de ellas transcribe texto con caligrafía manual a texto tipográfico, otra genera expresiones tipográficas de fórmulas a partir de trazos y la tercera genera formas geométricas a partir de trazos libres aproximados.
 
-Dependiendo del grosos del elemento utilizado, se activa el lápiz o el marcador. 
+!alert "Tipo de trazo"
 
-Para borrar se puede utilizar la mano abierta sobre el panel digital interactivo.
+    Dependiendo del grosos del elemento utilizado, se activa el lápiz o el marcador.
 
-Separando o juntando dos dedos, se puede hacer zoom sobre una zona o reducir.
 
-Las opciones de color, forma y tipo de trazo se pueden utilizar desde el menú general.
+##Borrado##, se puede utilizar la mano abierta sobre el panel digital interactivo, o activar una de las herramientas de borrado (#trazos u objetos#).
 
-Este recurso permite seguir una metodología clásica de pizarra en el áula. La única ventaja digital es que permite realizar capturas de la pizarra, que una vez guardadas se pueden distribuir entre el alumnado. 
+##Movimiento y zoom@, con la herrameinta de movimiento, se puede mantener un toque sobre el panel digital interactivo y arrastrar en cualquier dirección, para desplazar el espacio de la pizarra. También es posible realizar zoom separando o juntando dos puntos de contacto.
+
+
+Este recurso permite seguir una metodología clásica de pizarra en el áula. La única ventaja digital es realizar capturas de la pizarra, que una vez guardadas se pueden distribuir entre el alumnado, como imágenes o documentos pdf.
 
 !!! info "Distribuir contenido"
 
