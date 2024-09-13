@@ -13,8 +13,16 @@ Forma parte del **Aula Digital Interactiva** promovida por la **Conselleria**. E
 Se trata de un dispositivo de **visualización** que permite interactuar a través de toques en el panel.
 
 Actualmente se han distribuido dos modelos de panel interactivo digital:
-- Newline.
-- Synetech.
+
+- **Newline**.
+  
+
+![Newline](imagenes/newline.png)
+
+- **Synetech**.
+
+![Synetech](imagenes/acuarius.png)
+
 
 La funcionalidad de ambos modelos es similar, sin embargo hay diferencias en la apariencia física.
 
@@ -36,8 +44,11 @@ Algunas de las funciones que aparecen en el manual, son propias del usuario admi
 Antes de poder utilizar el panel digital interactivo es necesario verificar que funciona correctamente. 
 
 Aunque puede parecer una acción obvia, el primer paso es asegurar que está encendida:
+
 - Verifica que está conectada a la corriente.
+  
 - Verifica que está encendido el interruptor.
+  
 - Comprueba que se enciende al pulsar el **botón de encendido**.
 
 !!! alert "Interruptor encendido"
@@ -48,6 +59,13 @@ Aunque puede parecer una acción obvia, el primer paso es asegurar que está enc
 
     El **interruptor**, tiene dos posiciones, suele estar más escondido. Aunque en la documentación indica que está en el lateral derecho, según la versión puede estar en la parte inferior. Eso sí, nunca es visible desde el frente de la pantalla.
 
+**Interruptor encendido**:
+
+![Interruptor](imagenes/alimentacion.png)
+
+**Botón encendido**:
+
+![Encendido](imagenes/encendido.png)
 
 Conocer bien el dispositivo físicamente, nos ayuda a conseguir seguridad para su uso. Ante cualquier incidente debemos ser capaces de realizar acciones de comprobación básicas que nos permitan, solventar el problema o conseguir soluciones alternativas para alcanzar nuestro propósito.
 
@@ -90,6 +108,11 @@ Se dispone de varios puertos USB para conectar periféricos de tipo general, com
 
     Los puertos **USB tipo C** son más pequeños. Este tipo de puerto es multifunción y pueden conectarse muchos dispositivos o adaptadores diferentes.
 
+![Puertos](imagenes/conectores1.png)
+
+
+![Puertos](imagenes/conectores2.png)
+
 
 Los puertos **HDMI** permiten conectar una fuente externa, como un ordenador. A través de esta conexión se transmite la imagen y el sonido al panel digital interactivo.
 
@@ -116,6 +139,8 @@ Finalmente también es posible conectar altavoces o micrófonos, a los puertos c
 
 El aula digital interactiva se compone de un portátil (aunque puede haber sido substituido por otro dispositivo con función similar) que está conectado mediante un puerto **HDMI** y **Touch USB combinados**. 
 
+![Puertos](imagenes/conectores3.png)
+
 Dispone de arranque dual, lo que permite trabajar desde un sistema *Windows* o desde *Lliurex*.
 
 
@@ -125,7 +150,9 @@ Utiliza el usuario y sus credenciales correspondientes para desbloquear el panel
 
 Es posible que no todas las opciones de configuración estén disponibles para todos los usuarios. Por eso, hay detalles que pueden varias de un dispositivo a otro, e incluso en el mismo dispositivo según el usuario utilizado.
 
-Las aplicaciones preinstaladas pueden variar de un dispositivo a otro. Las más relevantes son:
+Las **aplicaciones preinstaladas** pueden variar de un dispositivo a otro. Las más relevantes son:
+
+![Puertos](imagenes/aplicaciones.png)
 
 - Navegador web.
 - Visor de imágenes.
@@ -147,8 +174,15 @@ En general es conveniente elegir la fuente adecuada al tipo de documento con el 
 Hay diferentes opciones. Se puede **cerrar sesión** (icono puertecita). Pedirá confirmación para cerrar la sesión.
 
 Desde este punto se puede apagar de dos maneras:
+
 1. En la botonera frontal manteniendo pulsado el **botón de encendido**
+   
 2. Pulsando el icono de apagado que aparece en el panel digital interactivo.
+
+![Apagar](imagenes/apagar1.png)
+
+![Apagar](imagenes/apagar2.png)
+
 
 Hay que confirmar la acción a realizar en la venta de aviso que aparece.
 
