@@ -6,8 +6,8 @@ use_directory_urls: false
 
 nav:
   - "1. Panel Digital Interactivo": "index.md"
-  - "2. Utilizando los recursos": "recursos.md"  
-  - "3. Metodología interactiva": "interactiva.md"
+#  - "2. Utilizando los recursos": "recursos.md"  
+#  - "3. Metodología interactiva": "interactiva.md"
 
 
 theme:
