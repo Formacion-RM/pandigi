@@ -16,14 +16,14 @@ Dependiendo de la aplicación utilizada los requisitos pueden tener cierta varia
 
 Generando un código que se debe colocar en el dispositivo, es posible autorizar el uso del panel digital interactivo como **pantalla espejo** del dispositivo.
 
-Otra opción es utilizar el dispositivo **doongle**. En un primer paso es necesario conectarlo a un puerto USB del panel digital interactivo, para que se sincronice.
+Otra opción es utilizar el dispositivo **dongle**. En un primer paso es necesario conectarlo a un puerto USB del panel digital interactivo, para que se sincronice.
 
 El siguiente paso es conectarlo al dispositivo que se desea que transmita su imagen al panel digital interactivo.
 
-El último paso es pulsar el **botón del doongle**.
+El último paso es pulsar el **botón del dongle**.
 
 
-!!! info "Doongle"
+!!! info "Dongle"
 
     En algunos modelos de panel digital interactivo esta funcionalidad solo está disponible para dispositivos que utilizan el sistema operativo Windows.
 
@@ -50,6 +50,33 @@ Esta opción puede ser muy útil para crear un diseño previo del contenido de l
     De esta forma, se aprovecha el trabajo realizado para todas las sesiones, completando o modificando la pizarra con las circunstancias particulares que surjan en cada una de las diferentes sesiones.
 
 
+## Compartir pantalla de forma inalámbrica
+
+Si se necesita mostrar la pantalla de otro dispositivo inalámbrico, para mostrarlo en el panel digital interactivo. Es necesario que el dispositivo esté conectado en la misma red que el panel digital, o que esté conectado al punto de acceso del panel digital.
+
+Con la opción **eShare** aparecerá un código en el panel digital que debe ser introducido en el dispositivo remoto (teniendo la aplicación correspondiente instalada). 
+
+De esta manera se puede mostrar y controlar, desde el panel digital interactivo, el dispositivo remoto.
+
+!!! info "Transmitir la pantalla principal"
+
+    En algún modelo de panel digital iteractivo, también incorpora la opción de **Grupo de pantallas**. Desde la que es posible transmitir la pantalla principal a otras conectadas.
+
+    Basta con seleccionar cuál será la pantalla principal, y otras pantallas para empezar a transmitir.
 
 
+Herramienta compartición de pantalla.
 
+## Transmitir el panel difital interactivo con otras pantallas
+
+Se transmite la pantalla del panel digital interactivo a muchos dispositivos.
+
+[Con el modelo newline.](https://gvaedu.sharepoint.com/sites/DOCUMENTAR-FormacioTIC/_layouts/15/stream.aspx?id=%2Fsites%2FDOCUMENTAR%2DFormacioTIC%2FDocumentos%20compartidos%2FGeneral%2FADI%2F03%20VIDEOS%20PANTALLAS%2F01%20Vid%20ADI%2022%2D23%20Newline%2FVideo%20C%5F03%20%2D%20Broadcast%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E8ebb131a%2D9e47%2D4e1a%2Daa61%2D73e4595b8ae8){:target="_blank"}
+
+## Punto de acceso
+
+Es posible crear un punto de acceso en el panel digital interactivo, para que otros dispositivos se conecten.
+
+Es obligatorio que el panel digital interactivo esté conectados a Internet por cable (Ethernet). 
+
+Opciones de configuración, activamos redes WiFi y seleccionamos la opción **punto de acceso**.
