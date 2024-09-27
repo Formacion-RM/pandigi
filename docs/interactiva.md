@@ -27,3 +27,29 @@ El último paso es pulsar el **botón del doongle**.
 
     En algunos modelos de panel digital interactivo esta funcionalidad solo está disponible para dispositivos que utilizan el sistema operativo Windows.
 
+## Continuará...
+
+Es posible que en alguna ocasión la materia que se está trabajando no finalice al mismo tiempo que la sesión en el aula. En este caso los materiales que se han ido generando pueden resultar interesantes, para proseguir en otra sesión. 
+
+Utilizando el **modo pizarra** es posible **guardar** las páginas de la pizarra en un formato propio que permite recuperar el estado de la pizarra.
+
+Es posible comenzar con la pizarra en blanco y conforme se añade contenido, guardar la pizarra. De esta forma se puede recuperar estos estados previos para otras sesiones o para otro alumnado que tiene que propone realizar la misma tarea con otra solución.
+
+!!! alert "Guardar vs exportar"
+
+    No hay que confundir la opción de guardar para proseguir su uso en otro momento, con guardar para compartir o exportar a otro formato. 
+
+    La diferencia principal es que al **Guardar** el formato del fichero no cambia, sigue siendo una pizarra. Sin embargo, si se exporta o cambia a otro formato (*como imagen o pdf*) no se puede continuar con el uso completo de la pizarra, solo será un fichero o una imagen insertada en la pizarra.
+
+Esta opción puede ser muy útil para crear un diseño previo del contenido de la pizarra, antes de trabajar con el alumnado. De esta forma queda guardada como una **"plantilla"** para desarrollar la sesión a partir de esta, en lugar de comenzar con la pantalla en blanco.
+
+!!! info "Varios grupos mismo nivel"
+
+    Se trata de una opción muy interesante si se tiene que trabajar con diferentes grupos de un mismo nivel educativo.
+
+    De esta forma, se aprovecha el trabajo realizado para todas las sesiones, completando o modificando la pizarra con las circunstancias particulares que surjan en cada una de las diferentes sesiones.
+
+
+
+
+
