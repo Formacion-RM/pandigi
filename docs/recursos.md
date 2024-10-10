@@ -145,7 +145,7 @@ alert "Consistencia de los datos"
 
 ## Referencias
 
-  - **Escribir sobre cualquier superficie**, Synetech. [Visitar el enlace.](https://gvaedu.sharepoint.com/sites/DOCUMENTAR-FormacioTIC/_layouts/15/stream.aspx?id=%2Fsites%2FDOCUMENTAR%2DFormacioTIC%2FDocumentos%20compartidos%2FGeneral%2FADI%2F03%20VIDEOS%20PANTALLAS%2F02%20Vid%20ADI%2023%2D24%20Synetech%2F05%20Herramientas%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ed03dac55%2D56b7%2D4de3%2Da4d9%2D378feca4f583){:target="_blank"}
-  - **Escribir sobre cualquier superficie**, Newline. [Visitar el enlace.](https://gvaedu.sharepoint.com/sites/DOCUMENTAR-FormacioTIC/_layouts/15/stream.aspx?id=%2Fsites%2FDOCUMENTAR%2DFormacioTIC%2FDocumentos%20compartidos%2FGeneral%2FADI%2F03%20VIDEOS%20PANTALLAS%2F01%20Vid%20ADI%2022%2D23%20Newline%2FVideo%20B%5F12%20%2D%20Anotaci%C3%B3n%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ee3dbde0d%2D30f3%2D4311%2Da0bf%2Dc61b5fae92e7){:target="_blank"}
+- **Escribir sobre cualquier superficie**, Synetech. [Visitar el enlace.](https://gvaedu.sharepoint.com/sites/DOCUMENTAR-FormacioTIC/_layouts/15/stream.aspx?id=%2Fsites%2FDOCUMENTAR%2DFormacioTIC%2FDocumentos%20compartidos%2FGeneral%2FADI%2F03%20VIDEOS%20PANTALLAS%2F02%20Vid%20ADI%2023%2D24%20Synetech%2F05%20Herramientas%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ed03dac55%2D56b7%2D4de3%2Da4d9%2D378feca4f583){:target="_blank"}
+- **Escribir sobre cualquier superficie**, Newline. [Visitar el enlace.](https://gvaedu.sharepoint.com/sites/DOCUMENTAR-FormacioTIC/_layouts/15/stream.aspx?id=%2Fsites%2FDOCUMENTAR%2DFormacioTIC%2FDocumentos%20compartidos%2FGeneral%2FADI%2F03%20VIDEOS%20PANTALLAS%2F01%20Vid%20ADI%2022%2D23%20Newline%2FVideo%20B%5F12%20%2D%20Anotaci%C3%B3n%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ee3dbde0d%2D30f3%2D4311%2Da0bf%2Dc61b5fae92e7){:target="_blank"}
 
 
