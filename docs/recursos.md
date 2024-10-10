@@ -30,7 +30,7 @@ Las acciones básicas, son el ##trazado## de líneas utilizando un dedo o el pun
 - El ##trazo geométrico##, ofrece formas geométricas variadas que se pueden escalar en la pizarra. Es posible elegir el color y alternar entre figuras rellenas o vacias de color. También es posible trazar líneas rectas y fechas.
 - **Trazo con IA**, a su vez tiene tres modalidades. Una de ellas transcribe texto con caligrafía manual a texto tipográfico, otra genera expresiones tipográficas de fórmulas a partir de trazos y la tercera genera formas geométricas a partir de trazos libres aproximados.
 
-!alert "Tipo de trazo"
+!!!alert "Tipo de trazo"
 
     Dependiendo del grosos del elemento utilizado para realizar el trazo, se activa el lápiz o el marcador.
 
