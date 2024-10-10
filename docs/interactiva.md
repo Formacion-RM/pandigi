@@ -14,7 +14,7 @@ El panel digital interactivo dispone de aplicaciones preinstaladas para poder **
 
 Dependiendo de la aplicación utilizada los requisitos pueden tener cierta variación, pero en general es necesario que estén conectados a la misma red que el panel digital interactivo. 
 
-Generando un código que se debe colocar en el dispositivo, es posible autorizar el uso del panel digital interactivo como **pantalla espejo** del dispositivo.
+Al utilizar la opción para compartir, se genera un código que se debe colocar en el dispositivo, es posible autorizar el uso del panel digital interactivo como **pantalla espejo** del dispositivo. Este último tiene que conectarse a una página web donde podrá colocar el código.
 
 Otra opción es utilizar el dispositivo **dongle**. En un primer paso es necesario conectarlo a un puerto USB del panel digital interactivo, para que se sincronice.
 
@@ -29,17 +29,23 @@ El último paso es pulsar el **botón del dongle**.
 
 ## Continuará...
 
-Es posible que en alguna ocasión la materia que se está trabajando no finalice al mismo tiempo que la sesión en el aula. En este caso los materiales que se han ido generando pueden resultar interesantes, para proseguir en otra sesión. 
+Es posible que en alguna ocasión la materia que se está trabajando no finalice al mismo tiempo que la sesión en el aula y se tenga la intención de proseguir en el punto donde se ha finalizado. 
 
 Utilizando el **modo pizarra** es posible **guardar** las páginas de la pizarra en un formato propio que permite recuperar el estado de la pizarra.
 
-Es posible comenzar con la pizarra en blanco y conforme se añade contenido, guardar la pizarra. De esta forma se puede recuperar estos estados previos para otras sesiones o para otro alumnado que tiene que propone realizar la misma tarea con otra solución.
+Al inicio de una nueva sesión lo habitual es comenzar con la pizarra en blanco y conforme se añade contenido, es posible **guardar la pizarra**. De esta forma se puede recuperar estos estados previos para otras sesiones o para otro alumnado que tiene que realizar la misma tarea con otra solución.
+
+La pizarra se puede guardar en el propio panel digital interactivo o en una memoria USB, para posteriormente recuperarla en otro aula con otro panel digital interactivo diferente, o disponer de una **colección de pizarra** de nuestra materia.
+
+Utilizando el formato específico para guardar las pizarras, por lo generarl, no será posible revisar el contenido ni realizar modificaciones desde otros disponitivos (*ordenador, portátils, tablet...*), tan solo se podrá volver a utilizar en un panel digital interactivo. Ya que requiere la aplicación específica.
+
 
 !!! alert "Guardar vs exportar"
 
     No hay que confundir la opción de guardar para proseguir su uso en otro momento, con guardar para compartir o exportar a otro formato. 
 
     La diferencia principal es que al **Guardar** el formato del fichero no cambia, sigue siendo una pizarra. Sin embargo, si se exporta o cambia a otro formato (*como imagen o pdf*) no se puede continuar con el uso completo de la pizarra, solo será un fichero o una imagen insertada en la pizarra.
+
 
 Esta opción puede ser muy útil para crear un diseño previo del contenido de la pizarra, antes de trabajar con el alumnado. De esta forma queda guardada como una **"plantilla"** para desarrollar la sesión a partir de esta, en lugar de comenzar con la pantalla en blanco.
 
