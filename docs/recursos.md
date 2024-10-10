@@ -137,7 +137,6 @@ Esta capa transparente se activa y desactiva, cuando sea necesaria.
 
 
 alert "Consistencia de los datos"
-
     Hay que tener en cuenta que si se desplaza el documento que está por debajo, las marcas y anotaciones dejarán de coincidir.
 
     Lo recomendable es realizar una captura de las anotaciones y borrarlas para disponer de nuevo de una transparencia totalmente limpia sobre un fondo diferente.
