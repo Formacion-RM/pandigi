@@ -127,7 +127,7 @@ Esta opción es muy interesante cuando tenemos oportunidad de mostrar recursos q
 
 Una posibilidad que combina el uso de los recursos anteriores, es mostrar información exitente, ya sea en el navegador o desde una fuente externa.
 
-Existe la posibilidad de superponer una especie de filtro transparente, sobre el cual realizar anotaciones y marcas, sin modificar el documento original. 
+Existe la posibilidad de superponer una especie de filtro transparente, sobre el cual realizar anotaciones y marcas, sin modificar el documento original. Se llama **modo anotación**.
 
 De esta manera se pueden resaltar aspectos sobre un gráfico o realizar las anotaciones del análisis de un texto directamente. Sin alterar el documento original.
 
