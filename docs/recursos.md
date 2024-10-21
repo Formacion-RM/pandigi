@@ -142,6 +142,16 @@ Esta capa transparente se activa y desactiva, cuando sea necesaria.
 
     Lo recomendable es realizar una captura de las anotaciones y borrarlas para disponer de nuevo de una transparencia totalmente limpia sobre un fondo diferente.
 
+## Panel digital interactivo y Aules
+
+Otra opción combinada es aprovechar los documentos generados en el panel digital interactivo (*formato imagen o formato pdf*), para ofrecer la explicación en la plataforma Aules.
+
+De esta manera alumnado que no ha podido asistir al aula, también tiene posibilidad de conocer cualquier desarrollo realizado en el modo pizarra.
+
+!!! "Modalidad semipresencial"
+
+    Resulta especialmente interesante para ciclos formativos en modalidad *semipresencial* ya que se aprovecha las sesiones de tutoría colectiva presencial voluntaria, para la creación de cualquier material en el panel digital interactivo y posterior distribución al grupo en Aules.
+    
 
 ## Referencias
 

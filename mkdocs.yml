@@ -12,7 +12,7 @@ nav:
 
 theme:
   language: es
-  #favicon: imagenes/favicon.png
+  favicon: imagenes/pandigi.ico
   name: "material"
   palette:
     primary: deep blue
