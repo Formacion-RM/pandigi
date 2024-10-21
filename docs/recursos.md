@@ -148,10 +148,10 @@ Otra opción combinada es aprovechar los documentos generados en el panel digita
 
 De esta manera alumnado que no ha podido asistir al aula, también tiene posibilidad de conocer cualquier desarrollo realizado en el modo pizarra.
 
-!!! "Modalidad semipresencial"
+!!!info "Modalidad semipresencial"
 
     Resulta especialmente interesante para ciclos formativos en modalidad *semipresencial* ya que se aprovecha las sesiones de tutoría colectiva presencial voluntaria, para la creación de cualquier material en el panel digital interactivo y posterior distribución al grupo en Aules.
-    
+
 
 ## Referencias
 
